@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "frontend"
+		},
+		{
+			"path": "broker"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {}
