@@ -1,13 +1,16 @@
 {
 	"folders": [
 		{
+			"name": "MicroservicesWGo",
+			"path": "."
+		},
+		{
+			"name": "frontend",
 			"path": "frontend"
 		},
 		{
+			"name": "broker",
 			"path": "broker"
-		},
-		{
-			"path": "."
 		}
 	],
 	"settings": {}
